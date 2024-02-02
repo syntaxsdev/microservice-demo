@@ -6,7 +6,7 @@ It is just as easy to use, but more powerful.
 
 ### What does this cover?
 1. We explore how to use GET methods
-2. Demonstrating how to query a list of users
+2. Demonstrate how to query a list of users
 3. Show how to handle pictures
 4. Create a basic webpage in HTML and JavaScript
 
